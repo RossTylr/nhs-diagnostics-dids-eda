@@ -1,0 +1,48 @@
+name: dids-eda
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Python base
+  - python=3.10
+
+  # Core data science stack
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+
+  # Geospatial tools
+  - geopandas
+  - shapely
+  - pyproj
+  - contextily
+  - folium
+  - fiona
+  - gdal
+  - rasterio
+
+  # Plotting + Interactivity
+  - plotly
+  - rich
+
+  # Notebook environment
+  - notebook
+  - jupyterlab
+  - ipykernel
+
+  # File I/O
+  - openpyxl
+  - xlrd
+
+  # Utilities
+  - pip
+  - tqdm
+  - ipywidgets
+
+  # Install custom packages via pip if needed
+  - pip:
+      - osmnx
+      - pyarrow
