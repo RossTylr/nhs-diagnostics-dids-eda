@@ -1,0 +1,118 @@
+SNOMED Procedure,Count,% of Total,Cumulative %
+Plain chest X-ray (procedure),42284,11.53,11.53
+Plain chest X-ray (procedure) (399208008),25036,6.83,18.36
+Computed tomography of entire head (procedure),9281,2.53,20.89
+Ultrasonography of abdomen (procedure),5461,1.49,22.38
+Computed tomography of entire head (procedure) (408754009),5410,1.48,23.86
+Ultrasound scan for fetal growth (procedure),4969,1.35,25.21
+Radiography of hip (procedure),4731,1.29,26.5
+Radiography of shoulder (procedure),4690,1.28,27.78
+"Computed tomography of thorax, abdomen and pelvis with contrast (procedure)",4687,1.28,29.060000000000002
+Pelvis X-ray (procedure),4580,1.25,30.310000000000002
+X-ray of right knee (procedure),4410,1.2,31.51
+X-ray of left knee (procedure),4197,1.14,32.65
+Radiography of wrist (procedure),4118,1.12,33.769999999999996
+Radiography of hand (procedure),3687,1.01,34.779999999999994
+Transthoracic echocardiography (procedure) (433236007),3581,0.98,35.75999999999999
+Magnetic resonance imaging of head (procedure),3377,0.92,36.67999999999999
+Computed tomography of abdomen and pelvis with contrast (procedure),3271,0.89,37.56999999999999
+Ultrasonography of breast (procedure),3109,0.85,38.419999999999995
+Bilateral mammography (procedure),3102,0.85,39.269999999999996
+Transvaginal ultrasonography of pelvis (procedure) (429915000),2858,0.78,40.05
+Fetal anatomy study (procedure),2831,0.77,40.82
+"Computed tomography of thorax, abdomen and pelvis with contrast (procedure) (433761009)",2705,0.74,41.56
+Transvaginal ultrasonography of pelvis (procedure),2681,0.73,42.29
+Pelvic echography (procedure) (24848001),2613,0.71,43.0
+Radiography of hip (procedure) (408740001),2603,0.71,43.71
+Radiography of shoulder (procedure) (29592009),2600,0.71,44.42
+Ultrasonography of abdomen (procedure) (45036003),2517,0.69,45.11
+Ultrasound scan for fetal growth (procedure) (241493005),2462,0.67,45.78
+X-ray of right ankle (procedure),2447,0.67,46.45
+X-ray of left ankle (procedure),2360,0.64,47.09
+Computed tomography of abdomen and pelvis with contrast (procedure) (432370003),2354,0.64,47.730000000000004
+X-ray of right foot (procedure),2346,0.64,48.370000000000005
+X-ray of left foot (procedure),2311,0.63,49.00000000000001
+Orthopantogram (procedure),2299,0.63,49.63000000000001
+Ultrasound of urinary tract (procedure),2268,0.62,50.25000000000001
+Transvaginal and transabdominal ultrasonography of pelvis (procedure),2223,0.61,50.86000000000001
+Radiography of hand (procedure) (49345004),2217,0.6,51.46000000000001
+Radiography of wrist (procedure) (60027007),2216,0.6,52.06000000000001
+Ultrasound of urinary tract (procedure) (303917008),2164,0.59,52.65000000000001
+Nuchal ultrasound scan (procedure),2157,0.59,53.240000000000016
+Pelvis X-ray (procedure) (268425006),2059,0.56,53.80000000000002
+Dual energy X-ray photon absorptiometry (procedure),2053,0.56,54.36000000000002
+Computed tomography of chest (procedure),2050,0.56,54.92000000000002
+Computed tomography angiography of pulmonary artery with contrast (procedure),2042,0.56,55.480000000000025
+Magnetic resonance imaging of head (procedure) (241601008),1954,0.53,56.010000000000026
+Radiologic examination of knee (procedure) (74016001),1935,0.53,56.54000000000003
+Diagnostic radiography of abdomen (procedure),1795,0.49,57.03000000000003
+Radiography of elbow (procedure),1694,0.46,57.49000000000003
+Pelvic echography (procedure),1680,0.46,57.95000000000003
+Diagnostic radiography of lumbar spine (procedure),1612,0.44,58.39000000000003
+Positron emission tomography with computed tomography fluorodeoxyglucose imaging of whole body (procedure) (443271005),1554,0.42,58.81000000000003
+Magnetic resonance imaging of lumbar and sacral spine (procedure),1550,0.42,59.23000000000003
+Magnetic resonance imaging of lumbar and sacral spine (procedure) (433141005),1443,0.39,59.62000000000003
+Echography of kidney (procedure),1376,0.38,60.000000000000036
+Ultrasound monitoring of early pregnancy (procedure),1313,0.36,60.360000000000035
+Thumb X-ray (procedure),1311,0.36,60.720000000000034
+Nuchal ultrasound scan (procedure) (414880004),1198,0.33,61.05000000000003
+Radiography of ankle (procedure) (19490002),1193,0.33,61.38000000000003
+X-ray of right knee (procedure) (427407003),1150,0.31,61.69000000000003
+Computed tomography of chest (procedure) (169069000),1139,0.31,62.000000000000036
+Radiography of foot (procedure) (52221007),1137,0.31,62.31000000000004
+Ultrasound compression venography of lower limb (procedure),1132,0.31,62.62000000000004
+Orthopantogram (procedure) (89846007),1128,0.31,62.93000000000004
+X-ray of left knee (procedure) (427019001),1127,0.31,63.240000000000045
+"Computed tomography of chest, abdomen and pelvis (procedure)",1122,0.31,63.55000000000005
+Echography of scrotum and contents (procedure),1109,0.3,63.850000000000044
+Computed tomography of abdomen and pelvis (procedure),1055,0.29,64.14000000000004
+Doppler ultrasonography of vein of lower limb (procedure),1045,0.28,64.42000000000004
+Ultrasound obstetric doppler (procedure),1037,0.28,64.70000000000005
+Tibia and/or fibula X-ray (procedure),1026,0.28,64.98000000000005
+Radiography of elbow (procedure) (76913009),1019,0.28,65.26000000000005
+Low dose computed tomography of thorax (procedure),1018,0.28,65.54000000000005
+Computed tomography angiography of coronary arteries (procedure),1014,0.28,65.82000000000005
+Computed tomography of cervical spine (procedure),1008,0.27,66.09000000000005
+Ultrasound scan of neck (procedure),950,0.26,66.35000000000005
+Bilateral mammography (procedure) (43204002),921,0.25,66.60000000000005
+Computed tomography angiography of pulmonary artery (procedure) (419225001),915,0.25,66.85000000000005
+Echography of scrotum and contents (procedure) (24737001),898,0.24,67.09000000000005
+Ultrasonography in first trimester (procedure),888,0.24,67.33000000000004
+Mammography (procedure) (71651007),885,0.24,67.57000000000004
+Plain X-ray of scaphoid (procedure),876,0.24,67.81000000000003
+Diagnostic radiography of abdomen (procedure) (60654006),866,0.24,68.05000000000003
+Transvaginal and transabdominal ultrasonography of pelvis (procedure) (826601000000101),865,0.24,68.29000000000002
+Magnetic resonance imaging of head with contrast (procedure) (432874000),845,0.23,68.52000000000002
+Radiography of cervical spine (procedure),831,0.23,68.75000000000003
+Computed tomography of urinary tract (procedure),828,0.23,68.98000000000003
+Magnetic resonance imaging of head with contrast (procedure),817,0.22,69.20000000000003
+Computed tomography of thorax with contrast (procedure),815,0.22,69.42000000000003
+Plain X-ray of femur (procedure),815,0.22,69.64000000000003
+Magnetic resonance imaging of spine (procedure),810,0.22,69.86000000000003
+Magnetic resonance imaging of cervical spine (procedure),805,0.22,70.08000000000003
+X-ray of right ankle (procedure) (426721006),783,0.21,70.29000000000002
+Ultrasonography of liver (procedure) (105377009),763,0.21,70.50000000000001
+X-ray of left ankle (procedure) (426420006),751,0.2,70.70000000000002
+Computerised tomography of chest with high resolution (procedure),744,0.2,70.90000000000002
+Thumb X-ray (procedure) (241074003),732,0.2,71.10000000000002
+Computed tomography of urinary tract with contrast (procedure),727,0.2,71.30000000000003
+Diagnostic radiography of lumbar spine (procedure) (90805008),720,0.2,71.50000000000003
+Dual energy X-ray photon absorptiometry (procedure) (241686001),710,0.19,71.69000000000003
+Radiography of humerus (procedure),706,0.19,71.88000000000002
+Radiography of thoracic spine (procedure),696,0.19,72.07000000000002
+Fetal anatomy study (procedure) (271442007),690,0.19,72.26000000000002
+Magnetic resonance imaging of cervical spine (procedure) (241646009),683,0.19,72.45000000000002
+Ultrasonography of abdomen and renal tract (procedure),682,0.19,72.64000000000001
+X-ray of left foot (procedure) (426908009),681,0.19,72.83000000000001
+Transthoracic echocardiography (procedure),666,0.18,73.01000000000002
+X-ray of right foot (procedure) (426311001),666,0.18,73.19000000000003
+Ultrasound scan of neck (procedure) (241453007),648,0.18,73.37000000000003
+Carotid artery doppler assessment (procedure),643,0.18,73.55000000000004
+Tibia and/or fibula X-ray (procedure) (241076001),629,0.17,73.72000000000004
+Ultrasound scan of upper abdomen (procedure) (418398002),617,0.17,73.89000000000004
+X-ray of fingers (procedure),616,0.17,74.06000000000004
+Radiography of forearm (procedure),614,0.17,74.23000000000005
+Ultrasound scan of hand (procedure),607,0.17,74.40000000000005
+Computerized axial tomography of kidney (procedure) (55501000),594,0.16,74.56000000000004
+X-ray of both feet (procedure),590,0.16,74.72000000000004
+Magnetic resonance cholangiopancreatography (procedure),588,0.16,74.88000000000004
