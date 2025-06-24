@@ -13,6 +13,7 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
+  - statsmodels  
 
   # Geospatial tools
   - geopandas
